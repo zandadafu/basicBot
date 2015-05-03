@@ -194,7 +194,7 @@
             botName: "GalactivBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-            startupCap: 1, // 1-200
+            startupCap: 200, // 1-200
             startupVolume: 50, // 0-100
             startupEmoji: true, // true or false
             cmdDeletion: true,
